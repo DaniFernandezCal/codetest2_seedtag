@@ -1,0 +1,6 @@
+version: '3'
+services:
+  seedtagTest:
+    image: 'seedtagtest'
+    ports:
+      - 8888:8888
