@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "../../.test_dir/tests",
+    "rootDir": ".."
+  },
+  "include": ["../unit/**/*"],
+  "references": [{ "path": "../../src" }]
+}
